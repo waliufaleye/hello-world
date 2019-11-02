@@ -1,2 +1,6 @@
 # hello-world
-Just starting
+Hi Everyone,
+
+Waliu Faleye here
+
+regards
